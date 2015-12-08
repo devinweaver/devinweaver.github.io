@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-image: url("http://i.imgur.com/gRj41g9.jpg");
+	background-size: cover;
+	color: #FFF;
+}
+h1 {
+	font-size: 60px;
+	margin-top: 290px;
+
+}
+hr {
+	width: 500px;
+	color: #FFF;
+}
+#slogan {
+	font-style: italic;
+	font-size: 25px;
+}
+#bullets {text-align: left;
+    list-style-position: inside;
+}
