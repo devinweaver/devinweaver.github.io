@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body {
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	background-image: url("http://i.imgur.com/gRj41g9.jpg");
+	background-size: cover;
+	color: #FFF;
+	line-height: 1.5em;
+	margin: 25em;
+}
+h1 {
+	font-size: 60px;
+	font-family: 'Chewy', cursive;
+	letter-spacing: 5px;
+}
+hr {
+	width: 500px;
+	color: #FFF;
+}
+#slogan {
+	font-style: italic;
+	font-size: 25px;
+}
+#bullets {text-align: left;
+    list-style-position: inside;
+}
